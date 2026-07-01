@@ -114,6 +114,48 @@
 .cart-logo i{
     font-size:30px;
 }
+/*panel*/
+.panel{
+    background-color: #232f3e;
+    color:#ffffff;
+    justify-content:space-evenly;
+    height:40px;
+    align-items:center;
+    display:flex;
+    
+
+}
+.all-panel{
+    align-items:center;
+    display:flex;
+    font-size:1.2rem;
+    font-weight: 700;
+    
+}
+.fresh{
+    font-size: 1.2rem;
+    }
+.Mxplayer{
+    font-size: 1.2rem;
+    }
+.Sell{
+    font-size: 1.2rem;
+    }
+.Bestsellers{
+    font-size: 1.2rem;
+    }
+.Deal{
+    font-size: 1.2rem;
+    }
+    .Prime{
+    font-size: 1.2rem;
+    }
+    .Mobile{
+    font-size: 1.2rem;
+    }
+.Releases{
+    font-size: 1.2rem;
+    }
 
 
 
