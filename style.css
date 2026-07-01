@@ -178,7 +178,7 @@
     width:80%;
     margin-bottom:25px;    
 }
-a{
+.hero-msg a{
     color:#007185
 }
 .shop-section{
@@ -235,7 +235,7 @@ footer{
     color:#DDDDDD;
 }
 ul a{
-    color:#DDDDDD;
+    
     display:block;
     display: 0.85rem;
     margin-top:20px;
@@ -245,10 +245,48 @@ ul a{
 ul p{
     font-size:1.2rem;
     margin-top:20px;
-     font-weight:700;
+    font-weight:700;
 }
 
+ .foot-panel3{
+    background-color:#232f3e;
+    height:70px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-top:0.5px solid white;
+}
 
+.logo{
+    background-image:url(amazon_logo.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:50px;
+    width:100px;
+}
+.foot-panel4{
+    background-color: #131A22;
+    height:80px;
+    color:#DDDDDD;
+    padding:10px 0px 10px;
+    font-size:1rem;
+    
+    
+   
+}
+.pages{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    
+}
+
+.Copyright{
+    margin:10px;
+    display:flex;
+    justify-content:center;
+    text-align:center;
+}
 
 
 
