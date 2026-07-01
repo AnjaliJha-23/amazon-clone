@@ -180,7 +180,42 @@
 }
 a{
     color:#007185
-};
+}
+.shop-section{
+    display:flex;
+    background-color:#e2e7e6;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+
+}
+.box{
+    background-color:white;
+    height:400px;
+    width:23%;
+    padding: 20px 0px 15px;
+    margin:15px;
+    
+    
+}
+.box-img{
+    height:300px;
+    width:100%;
+    background-size: cover;
+    background-position:center ;
+    background-repeat:no-repeat;
+    
+    margin-top:1rem;
+    margin-bottom:1rem; 
+}
+.box-content{
+    margin-left:1rem;
+    margin-right:1rem;
+
+}
+.box-content p{
+    color:#007185;
+
+}
 
 
 
