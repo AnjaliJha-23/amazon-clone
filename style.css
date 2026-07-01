@@ -216,6 +216,40 @@ a{
     color:#007185;
 
 }
+footer{
+    margin:15px;
+}
+.foot-panel1{
+    background-color:#37475A;
+    font-size:1rem;
+    color:white;
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    height:60px;
+}
+.foot-panel2{
+    display:flex;
+    justify-content:space-evenly;
+    background-color:#232f3e;
+    color:#DDDDDD;
+}
+ul a{
+    color:#DDDDDD;
+    display:block;
+    display: 0.85rem;
+    margin-top:20px;
+    margin-bottom:20px;
+    
+}
+ul p{
+    font-size:1.2rem;
+    margin-top:20px;
+     font-weight:700;
+}
+
+
+
 
 
 
